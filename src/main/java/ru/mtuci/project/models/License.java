@@ -50,6 +50,4 @@ public class License {
 
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "license")
     private List<DeviceLicense> deviceLicenses;
-
 }
-

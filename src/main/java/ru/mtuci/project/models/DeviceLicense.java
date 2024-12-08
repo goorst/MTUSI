@@ -28,4 +28,3 @@ public class DeviceLicense {
     @JoinColumn(name = "license_id")
     private License license;
 }
-

@@ -14,4 +14,3 @@ public enum LicenseHistoryStatus {
 
     private final String status;
 }
-

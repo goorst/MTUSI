@@ -1,6 +1,5 @@
 package ru.mtuci.project.models;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

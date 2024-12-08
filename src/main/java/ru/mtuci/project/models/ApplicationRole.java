@@ -1,6 +1,5 @@
 package ru.mtuci.project.models;
 
-import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.security.core.GrantedAuthority;
@@ -25,6 +24,3 @@ public enum ApplicationRole {
         return grantedAuthorities;
     }
 }
-
-
-

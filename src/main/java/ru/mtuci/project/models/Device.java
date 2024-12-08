@@ -27,4 +27,3 @@ public class Device {
     @OneToMany(fetch = FetchType.EAGER, mappedBy = "device")
     private List<DeviceLicense> deviceLicenses;
 }
-

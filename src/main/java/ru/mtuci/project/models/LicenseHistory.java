@@ -33,4 +33,3 @@ public class LicenseHistory {
     @JoinColumn(name = "user_id")
     private ApplicationUser user;
 }
-

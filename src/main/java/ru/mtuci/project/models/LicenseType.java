@@ -29,4 +29,3 @@ public class LicenseType {
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "licenseType")
     private List<License> licenses;
 }
-

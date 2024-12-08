@@ -41,4 +41,3 @@ public class ApplicationUser {
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
     private List<Device> devices;
 }
-

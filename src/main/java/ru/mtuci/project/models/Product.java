@@ -1,6 +1,5 @@
 package ru.mtuci.project.models;
 
-
 import jakarta.persistence.*;
 import lombok.Data;
 
